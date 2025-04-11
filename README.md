@@ -1,2 +1,2 @@
-# Actividad 0
-## Sofia Lara Goszko
+# Mi primeta app con Django
+Creado por [Sofia Lara Goszko](https://github.com/sofiagoszko)
